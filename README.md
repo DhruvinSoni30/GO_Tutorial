@@ -1,2 +1,1 @@
-# GO_Tutorial
-GO tutorial for beginners 
+# GO tutorial for beginners 
